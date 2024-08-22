@@ -1,14 +1,29 @@
 Hi, My name is Abdul Rafay
 ======================================================================================================================================
-<h4>Software Engineer | Front-End Developer</h4>
+<h3>Software Engineer | Front-End Developer</h3>
 
 -  Tech Stack: React.js, Next.js, TypeScript/JavaScript, Hono.js, Appwrite, Zod, Tailwind CSS.
+-  Currently building: [tracker.io](https://trackx-io.vercel.app/)
 -  Currently Interested in: Web Development, Data Analytics, Machine Learning & AI.
 -  Familiar with: Java, Python, Excel, Google Sheets.
 -  How to reach me: abdulrafayaslam.007@gmail.com.
 
-<p align="left"> <a href="https://www.linkedin.com/in/abdul-rafay-aslam/" target="blank"><img src="https://img.shields.io/badge/Follow%20%40abdul_rafay_aslam-07?style=for-the-badge&logo=linkedin&logoColor=blue&color=gray" alt="Abdul Rafay" /></a> </p>
-
+<h3>Social Links</h3>
+<div align="left">
+  <a href="https://x.com/swerafay" target="_blank">
+    <img src="https://img.shields.io/badge/-swe__rafay-07?style=for-the-badge&logo=x&color=black" alt="Abdul Rafay" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://medium.com/@abdul-rafay" target="_blank" style="display: inline;">
+    <img src="https://img.shields.io/badge/-abdul--rafay-07?style=for-the-badge&logo=medium&color=black" alt="Abdul Rafay" />
+  </a>
+</div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdul-rafay-aslam/" target="_blank" style="display: inline;">
+    <img src="https://img.shields.io/badge/-abdul_rafay_aslam-07?style=for-the-badge&logo=linkedin&color=blue" alt="Abdul Rafay" />
+  </a>
+</div>
 
 <h3 align="left">Tech Stack</h3>
 <p align="left">
