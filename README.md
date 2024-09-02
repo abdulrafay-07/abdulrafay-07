@@ -2,7 +2,8 @@ Hi, My name is Abdul Rafay
 ======================================================================================================================================
 <h3>Software Engineer | Front-End Developer</h3>
 
--  Tech Stack: React.js, Next.js, TypeScript/JavaScript, Hono.js, Appwrite, Zod, Tailwind CSS.
+-  Tech Stack: React.js, Next.js, TypeScript/JavaScript, Express.js/Hono.js, PostgreSQL, MongoDB, Appwrite, Tailwind CSS.
+-  Last app built: [linkproof - ai proofreader](https://linkproof.vercel.app/)
 -  Currently building: [tracker.io](https://trackx-io.vercel.app/)
 -  Currently Interested in: Web Development, Data Analytics, Machine Learning & AI.
 -  Familiar with: Java, Python, Excel, Google Sheets.
@@ -11,7 +12,7 @@ Hi, My name is Abdul Rafay
 <h3>Social Links</h3>
 <div align="left">
   <a href="https://x.com/swerafay" target="_blank">
-    <img src="https://img.shields.io/badge/-swe__rafay-07?style=for-the-badge&logo=x&color=black" alt="Abdul Rafay" />
+    <img src="https://img.shields.io/badge/-swerafay-07?style=for-the-badge&logo=x&color=black" alt="Abdul Rafay" />
   </a>
 </div>
 <div align="left">
