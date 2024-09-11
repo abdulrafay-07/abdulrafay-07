@@ -40,4 +40,4 @@ Hi, My name is Abdul Rafay
 </p>
 
 <h3 align="left">Most Used Languages</h3>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay-07&layout=compact&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay-07&layout=compact&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
