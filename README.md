@@ -4,8 +4,8 @@ Hi, My name is Abdul Rafay
 
 -  Tech Stack: Go, React.js, Next.js, TypeScript/JavaScript, Express.js/Hono.js, PostgreSQL, MongoDB, Appwrite, Tailwind CSS.
 -  Currently building: [boilergen](https://boilergen.com)
--  Last app built: [linkproof - ai proofreader](https://linkproof.vercel.app/)
--  Currently Interested in: Web Development, Data Analytics, Machine Learning & AI.
+-  Last app built: [Simt](https://simt.pk/)
+-  Currently Interested in: SaaS, Web, Golang.
 -  How to reach me: abdulrafayaslam.007@gmail.com.
 
 <h3>Social Links</h3>
