@@ -1,42 +1,65 @@
 Hi, My name is Abdul Rafay
 ======================================================================================================================================
-<h3>Software Engineer</h3>
 
+<img align="right" height="170" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzNnNW11MXM5YWljN3dzODZlNzQ1ZHVkaGZrMW14eDJvN2tubW1tdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K1oJhRNg8YrJCNUrSB/giphy.gif"  />
+
+<h3 align="left">Software Engineer</h3>
+
+- I like to lift and code.
 -  Tech Stack: Go, React.js, Next.js, TypeScript/JavaScript, Express.js/Hono.js, PostgreSQL, MongoDB, Convex, Appwrite.
 -  Currently building: [capyclip](https://capyclip.com)
 -  Last app built: [Simt](https://simt.pk/)
 -  Currently Interested in: SaaS, Web, Go.
--  How to reach me: abdulrafayaslam.007@gmail.com.
 
-<h3>Social Links</h3>
+###
+
+<h3>Tech Stack</h3>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="honojs" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
+</div>
+
+###
+
+<h3>Socials</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/abdul-rafay-aslam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://x.com/swerafay" target="_blank">
-    <img src="https://img.shields.io/badge/-swerafay-07?style=for-the-badge&logo=x&color=black" alt="Abdul Rafay" />
+    <img src="https://img.shields.io/static/v1?message=X/Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-</div>
-<div align="left">
-  <a href="https://medium.com/@abdul-rafay" target="_blank" style="display: inline;">
-    <img src="https://img.shields.io/badge/-abdul--rafay-07?style=for-the-badge&logo=medium&color=black" alt="Abdul Rafay" />
+  <a href="https://medium.com/@abdul-rafay" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
-</div>
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdul-rafay-aslam/" target="_blank" style="display: inline;">
-    <img src="https://img.shields.io/badge/-abdul_rafay_aslam-07?style=for-the-badge&logo=linkedin&color=blue" alt="Abdul Rafay" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-<h3 align="left">Tech Stack</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
-  <br />
-  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="honojs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIOr_oRMBUsaXji4kX_u5TeVNrP0EqLbyEIQ&s" alt="zod" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-</p>
+###
 
-<h3 align="left">Most Used Languages</h3>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrafay-07&layout=compact&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+<h3>Stats</h3>
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrafay-07&theme=dracula&hide_border=true&hide_title=true&area=true" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrafay-07&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrafay-07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="300" alt="languages graph"  />
+</div>
+
+###
