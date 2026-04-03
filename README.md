@@ -4,7 +4,7 @@ Abdul Rafay - Software Engineer
 <img align="right" height="170" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzNnNW11MXM5YWljN3dzODZlNzQ1ZHVkaGZrMW14eDJvN2tubW1tdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/K1oJhRNg8YrJCNUrSB/giphy.gif"  />
 
 -  i like to lift and code.
--  stack: go, react.js, next.js, typeScript/javaScript, express.js/hono.js, postgres, mongo, convex.
+-  stack: go, react.js, next.js, typescript/javascript, express.js/hono.js, postgres, mongo, convex.
 -  web: [rafay.sh](https://rafay.sh)
 -  currently building: [capyclip](https://capyclip.com)
 -  last app built: [simt](https://simt.pk/)
